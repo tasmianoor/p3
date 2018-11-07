@@ -1,6 +1,6 @@
 # Project 3
 + By: *Tasmia Noor*
-+ Production URL: <http://p3.yourdomain.com>
++ Production URL: <http://p3.tasmia.me>
 
 ## Outside resources
 *Your list of outside resources go here*
